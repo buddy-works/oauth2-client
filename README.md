@@ -1,5 +1,6 @@
 # Buddy Provider for OAuth 2.0 Client
 [![Latest Version](https://img.shields.io/github/release/buddy-works/oauth2-client.svg?style=flat-square)](https://github.com/buddy-works/oauth2-client/releases)
+[![buddy branch](https://app.buddy.works/buddy-works/oauth2-client/repository/branch/master/badge.svg?token=be04e77cb21d0e7e611853e903e521ba233e01d46699a1e6dc00f85a853cbdd6 "buddy branch")](https://app.buddy.works/buddy-works/oauth2-client/repository/branch/master)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Total Downloads](https://img.shields.io/packagist/dt/buddy-works/oauth2-client.svg?style=flat-square)](https://packagist.org/packages/buddy-works/oauth2-client)
 
